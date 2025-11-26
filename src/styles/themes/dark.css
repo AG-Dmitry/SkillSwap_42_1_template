@@ -24,11 +24,11 @@
   --color-error: #ff5c3b; /* ошибка */
 
   /* --- Теги / категории --- */
-  --color-tag_business-career: #3c3250;
-  --color-tag_creativity-art: #4c3249;
-  --color-tag_foreign-languages: #47452f;
-  --color-tag_education-development: #304954;
-  --color-tag_home-comfort: #4a3d37;
-  --color-tag_health-lifestyle: #304833;
-  --color-tag_plus: #323a4d;
+  --color-tag-business-career: #3c3250;
+  --color-tag-creativity-art: #4c3249;
+  --color-tag-foreign-languages: #47452f;
+  --color-tag-education-development: #304954;
+  --color-tag-home-comfort: #4a3d37;
+  --color-tag-health-lifestyle: #304833;
+  --color-tag-plus: #323a4d;
 }

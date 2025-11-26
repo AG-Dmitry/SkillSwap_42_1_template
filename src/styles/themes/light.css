@@ -7,8 +7,8 @@
   /* --- Элементы управления --- */
   --color-toggle: #b2b9a9; /* переключатели, тумблеры */
   --color-disabled: #e4e8df; /* фон/бордеры для отключённых элементов */
-  --color-input: #ffffff; /* поля ввода */
-  --color-card: #ffffff; /* карточки */
+  --color-input: #fff; /* поля ввода */
+  --color-card: #fff; /* карточки */
 
   /* --- Акценты и интерактив --- */
   --color-text-link: #508826; /* ссылки */
@@ -24,11 +24,11 @@
   --color-error: #bf3920; /* ошибка */
 
   /* --- Теги / категории --- */
-  --color-tag_business-career: #eee7f7;
-  --color-tag_creativity-art: #f7e7f2;
-  --color-tag_foreign-languages: #ebe5c5;
-  --color-tag_education-development: #e7f2f6;
-  --color-tag_home-comfort: #f7ebe5;
-  --color-tag_health-lifestyle: #e9f7e7;
-  --color-tag_plus: #e8ecf7;
+  --color-tag-business-career: #eee7f7;
+  --color-tag-creativity-art: #f7e7f2;
+  --color-tag-foreign-languages: #ebe5c5;
+  --color-tag-education-development: #e7f2f6;
+  --color-tag-home-comfort: #f7ebe5;
+  --color-tag-health-lifestyle: #e9f7e7;
+  --color-tag-plus: #e8ecf7;
 }
