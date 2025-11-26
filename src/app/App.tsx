@@ -1,5 +1,5 @@
-import { Link, Outlet } from "react-router-dom";
 import styles from "./styles/app.module.css";
+import { Link, Outlet } from "react-router-dom";
 
 type AppProps = {
   title?: string;
@@ -20,10 +20,8 @@ export default function App({ title = "SkillSwap" }: AppProps) {
         </nav>
       </header>
 
-      <main className={styles.main}>
-        <Outlet />
-      </main>
-
+      <main className={styles.main}></main>
+      <Outlet />
       <footer className={styles.footer}>
         <span>© {new Date().getFullYear()} SkillSwap</span>
       </footer>
